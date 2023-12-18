@@ -1,0 +1,20 @@
+{
+  "personalDetails": [
+    [
+      {
+        "_id": "1",
+        "_name": "Prasanna Venkatesh R P",
+        "_email": "prasannavenkatesh.rp@tvsnext.com",
+        "_number": "45243514",
+        "_college": ""
+      },
+      {
+        "_id": "2",
+        "_name": "Prasanna ",
+        "_email": "prasannavenkatesh.rp@tvsnext.com",
+        "_number": "45243514",
+        "_college": ""
+      }
+    ]
+  ]
+}

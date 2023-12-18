@@ -1,0 +1,102 @@
+.main {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    background-color: white;
+    width: 100%;
+}
+
+.center-box {
+    width: 100%;
+    height: fit-content;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    height: 7.5vh;
+    width: 100%;
+    background-color: #A03037;
+    display: flex;
+    flex-direction: row;
+}
+.book {
+    margin-top: 10px;
+    font-size: 28px;
+    color: white;
+}
+
+.image {
+    margin-left: 60px;
+    margin-top: 10px;
+    height: 20px;
+    width: 20px;
+}
+.search-button {
+    margin-left: 120px;
+    margin-top: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    width: 50%;
+    height: 38px;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    outline: none;
+  }
+  .icon{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    background-color: #A03037;
+    width: 50px;
+  }
+  .icon1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    background-color: #A03037;
+    width: 50px;
+        position: relative;
+        display: inline-block; /* Ensure it's a block element to position the badge correctly */
+    
+  }
+  .material-icons {
+    font-size: 30px; /* Adjust icon size */
+    color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.words{
+    color: white;
+}
+.cart{
+    margin-left: 7px;
+    color: white;
+}
+.button{
+    background-color: #A03037;
+    height:7vh;    
+}
+.logout{
+    margin-left: 25px;
+    width: 120px;
+    color: red;
+}
+.i{
+    color: black;
+    font-size: 15px;
+}
+.badge {
+    background-color: white;
+    color: black;
+    padding: 1px 5px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 10px;
+}

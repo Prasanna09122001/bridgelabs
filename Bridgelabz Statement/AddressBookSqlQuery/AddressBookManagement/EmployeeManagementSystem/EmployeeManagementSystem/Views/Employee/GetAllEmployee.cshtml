@@ -1,0 +1,59 @@
+﻿@using EmployeeModels;
+@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "GetAllEmployee";
+}
+<body>
+    <table id="display-table" class="table-emp">
+        <div style="display: flex;">
+            <h3 style="padding-bottom: 10px; width:80%">Employee List</h3>
+            <div style="padding-bottom: 10px; justify-content: center;">
+                <a asp-controller="Employee" asp-action="AddEmployee" class=" btn btn-primary">
+                    Add Employee
+                </a>
+            </div>
+        </div>
+        <tr style="  text-transform: uppercase; background-color:lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.EmpId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th></th>
+        </tr>
+        <tbody>
+            @foreach (var data in Model)
+            { 
+                <tr>
+                    <td>@data.EmpId</td>
+                    <td>@data.Name</td>
+                    <td>@data.City</td>
+                    <td>@data.Address</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                                @Html.ActionLink("Edit", "EditEmployee", new { id = data.EmpId }) |
+                                @Html.ActionLink("Delete", "DeleteEmployee", new { id = data.EmpId },new { onclick = "return confirm('Do You Want to Delete the Employee Details?');" })
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+<style>
+    .table-emp {
+        background: whitesmoke;
+        width: 100%;
+        font-size: 14px;
+        color: black;
+        height: 30px;
+        border-collapse: collapse;
+    }
+</style>

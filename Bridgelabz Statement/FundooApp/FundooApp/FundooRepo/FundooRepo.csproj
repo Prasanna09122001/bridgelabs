@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20231026074952_Fundoo-v3.cs" />
+    <Compile Remove="Migrations\20231026074952_Fundoo-v3.Designer.cs" />
+    <Compile Remove="Migrations\20231026082904_Fundoo-v3.cs" />
+    <Compile Remove="Migrations\20231026082904_Fundoo-v3.Designer.cs" />
+    <Compile Remove="Migrations\20231026083005_Fundoo-v3.cs" />
+    <Compile Remove="Migrations\20231026083005_Fundoo-v3.Designer.cs" />
+    <Compile Remove="Migrations\20231026090832_Fundoo-v4.cs" />
+    <Compile Remove="Migrations\20231026090832_Fundoo-v4.Designer.cs" />
+    <Compile Remove="Migrations\20231026092141_Fundoo-v5.cs" />
+    <Compile Remove="Migrations\20231026092141_Fundoo-v5.Designer.cs" />
+    <Compile Remove="Migrations\20231026093849_Fundoo-v5.cs" />
+    <Compile Remove="Migrations\20231026093849_Fundoo-v5.Designer.cs" />
+    <Compile Remove="Migrations\20231026094722_Fundoo-v5.cs" />
+    <Compile Remove="Migrations\20231026094722_Fundoo-v5.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CloudinaryDotNet" Version="1.22.0" />
+    <PackageReference Include="Experimental.System.Messaging" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FundooModel\FundooModel.csproj" />
+    <ProjectReference Include="..\NLogImplementation\NLogImplementation.csproj" />
+  </ItemGroup>
+
+</Project>

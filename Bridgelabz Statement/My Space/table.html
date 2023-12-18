@@ -1,0 +1,98 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table id="display-table" class="table-emp">
+    </table>
+</body>
+<script>
+    let personaldetaislist;
+    let PersonalDetailsObject = {}
+    window.addEventListener('DOMContentLoaded', (event) => {
+        personaldetaislist = getdetails();
+        createInnerHtml();
+    })
+    const getdetails = () => {
+        return localStorage.getItem('PersonalDetailsList') ? JSON.parse(localStorage.getItem('PersonalDetailsList')) : [];
+    }
+    const createInnerHtml = () => {
+        const headerhtml = "<th>Register Number</th><th>Name</th><th>Email</th><th>PhoneNumber</th><th>College</th><th></th>";
+        let innerhtml = `${headerhtml}`;
+        for (const personaldetais of personaldetaislist) {
+            innerhtml = `${innerhtml}
+            <tr>
+                <td>${personaldetais._id}
+                <td>${personaldetais._name}
+                <td>${personaldetais._email}
+                <td>${personaldetais._number}
+                <td>${personaldetais._college}
+                <td><img src="create-black-18dp.svg" onclick="edit(this)" id="${personaldetais._id}">
+                <td><img src="delete-black-18dp.svg" onclick="remove(this)" id="${personaldetais._id}">
+                </tr>`;
+        }
+        document.querySelector('#display-table').innerHTML = innerhtml;
+    }
+    const remove = (node) => {
+        let personaldetais = personaldetaislist.find(data => data._id == node.id);
+        if (!personaldetais) return;
+        const index = personaldetaislist.map(data => data._id).indexOf(personaldetais._id);
+        personaldetaislist.splice(index, 1);
+        localStorage.setItem("PersonalDetailsList", JSON.stringify(personaldetaislist));
+        createInnerHtml();
+        json();
+    }
+
+    const edit = (node) => {
+        let details = personaldetaislist.find(data => data._id == node.id);
+        if (!details) return;
+        else {
+            const index = personaldetaislist.map(data => data._id).indexOf(details._id);
+            personaldetaislist.splice(index, 1);
+            localStorage.setItem("PersonalDetailsList", JSON.stringify(personaldetaislist));
+            localStorage.setItem('EditData', JSON.stringify(details));
+            window.location.href = "UserDetails.html"
+            json();
+        }
+    }
+
+</script>
+<style>
+    .table-emps {
+        background: whitesmoke;
+        border-radius: 3px 3px 0px 0px;
+        width: 100%;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color: black;
+        text-transform: uppercase;
+        height: 30px;
+    }
+
+    .table-emp {
+        background: whitesmoke;
+        width: 100%;
+        font-size: 14px;
+        color: black;
+        text-transform: uppercase;
+        height: 30px;
+        border-collapse: collapse;
+    }
+
+    .table-row {
+        background: white;
+        color: black;
+        border: none;
+        height: 40px;
+    }
+
+    td {
+        text-align: center;
+    }
+</style>
+
+</html>

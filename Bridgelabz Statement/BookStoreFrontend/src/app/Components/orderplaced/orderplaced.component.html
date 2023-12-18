@@ -1,0 +1,29 @@
+<mat-accordion>
+    <div class="links"></div>
+    <a href="dashboard/books" class="link">home/orders</a>
+    <div class="margin">
+        <mat-expansion-panel hideToggle class="b" expanded="true">
+            <div *ngFor="let wishlistItem of wishlistarray" class="container">
+                <div class="main" href="dashboard/bookview">
+                    <div class="imagefolder">
+                        <img class="image" src="{{wishlistItem.orderDetail.cartDetails.bookDetails.bookImage}}">
+                    </div>
+                    <div class="main1">
+                        <div class="order">
+                            <p class="title">{{wishlistItem.orderDetail.cartDetails.bookDetails.bookName}}</p>
+                            <div class="position">
+                                <p class="dot"></p>
+                                <p class="orderplaced">Order Placed</p>
+                            </div>
+                        </div>
+                        <p class="author">{{wishlistItem.orderDetail.cartDetails.bookDetails.bookAuthor}}</p>
+                        <div class="discount">
+                        <p class="price">Rs. {{wishlistItem.orderDetail.cartDetails.bookDetails.bookPrice}}</p>
+                        <p class="rate">Rs. {{wishlistItem.orderDetail.cartDetails.bookDetails.bookPrice+500}}</p>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </mat-expansion-panel>
+    </div>
+</mat-accordion>

@@ -1,0 +1,178 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Home</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="header">
+            <img src="../assets/images/logo.png" class="logo" />
+            <div class="header-main">
+                <div class="employee">EMPLOYEE</div>
+                <div class="payroll">PAYROLL</div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="container-main">
+                <div class="employee-deyails">Employee Details</div>
+                <div class="icon-button">
+                    <img src="../assets/icons/attach_file-24px.svg" />
+                    <div class="add">
+                        <img src="../assets/icons/add-24px.svg" />
+                        <button class="add-button"><a class="href-change" href="employeePayroll">Add
+                                User</a></button>
+                    </div>
+                </div>
+            </div>
+            <table id="display-table" class="table-emp">
+            </table>
+        </div>
+    </div>
+</body>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        createInnerHtml();
+    })
+    const createInnerHtml = () => {
+        const headerHtml = "<th></th>" +
+            "<th>Name</th>" +
+            "<th>Gender</th>" +
+            "<th>Department</th>" +
+            "<th>Salary</th>" +
+            "<th>Start Date</th>" +
+            "<th>Actions</th>";
+        let innerHtml = `${headerHtml}`;
+        let empList;
+        var array;
+        fetch("../assets/json/db.json")
+            .then(response => response.json())
+            .then(data => {
+                empList = data.employee;
+                array = [...empList];
+                for (var i = 0; i < array.length; i++) {
+                    innerHtml = `${innerHtml}
+        <tr class="table-row">
+            <td><img style="width: 30px;" src=${array[i].profileUrl} /></td>
+            <td>${array[i].name}</td>
+            <td>${array[i].gender}</td>
+            <td>${array[i].departMent}</td>
+            <td>${array[i].salary}</td>
+            <td>${array[i].startDate}</td>
+            <td>
+                <div>
+                    <img src="../assets/icons/create-black-18dp.svg"/>
+                    <img src="../assets/icons/delete-black-18dp.svg"/>
+                </div>
+            </td>
+        </tr>` ;
+                }
+
+                document.getElementById('display-table').innerHTML = innerHtml;
+            });
+    }
+</script>
+<style>
+    .logo {
+        width: 50px;
+        height: 47px;
+        padding-right: 3px;
+    }
+
+    .header {
+        display: flex;
+        align-items: center;
+        padding-left: 120px;
+        height: 80px;
+    }
+
+    .header-main {
+        width: 127px;
+    }
+
+    .employee {
+        height: 24px;
+        font: normal normal bold 22px/25px Montserrat;
+        color: #82A70C;
+    }
+
+    .payroll {
+        height: 24px;
+        font: normal normal bold 22px/25px Montserrat;
+    }
+
+    .container {
+        height: calc(100% - 80px);
+        background: #F7F7F7 0% 0% no-repeat padding-box;
+        padding: 0px 120px;
+        padding-top: 20px;
+    }
+
+    .container-main {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 25px;
+    }
+
+    .employee-deyails {
+        font: normal normal bold 20px/25px Roboto;
+        letter-spacing: 0px;
+        color: #42515F;
+    }
+
+    .icon-button {
+        display: flex;
+        width: 130px;
+        justify-content: space-between;
+    }
+
+    button.add-button {
+        border: none;
+        background: none;
+        color: white;
+    }
+
+    .add {
+        display: flex;
+        background: #82A70C;
+    }
+
+    .href-change {
+        text-decoration: none;
+        color: white;
+    }
+
+    .table-emps {
+        background: #42515F 0% 0% no-repeat padding-box;
+        border-radius: 3px 3px 0px 0px;
+        width: 100%;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        height: 30px;
+    }
+
+    .table-emp {
+        background: #42515F 0% 0%;
+        width: 100%;
+        font-size: 14px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        height: 30px;
+        border-collapse: collapse;
+    }
+
+    .table-row {
+        background: white;
+        color: black;
+        border: none;
+        height: 40px;
+    }
+</style>
+
+</html>								
+			

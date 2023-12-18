@@ -1,0 +1,149 @@
+.cart{
+    margin-left: 20px;
+}
+.margin{
+     margin-top: 30px;
+}
+.b{
+    margin-top: 20px;
+    margin-left: 230px;
+    width: 874px;
+border-radius: 1px;
+outline: 1px solid black;
+}
+.image{
+    width: 65px;
+height: 85px;
+background: transparent  0% 0% no-repeat padding-box;
+background-color: green;
+opacity: 1;
+margin: 10px;
+}
+.link{
+    margin-left: 230px;
+    text-decoration: none;
+    font: normal normal normal 14px/17px Lato;
+    color: #0A0102;
+}.links{
+    margin-top: 10px;
+}
+.imagefolder{
+    width: 85px;
+    height: 105px;
+    background-color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-bottom: 20px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    width: 200px;
+height: 17px;
+text-align: left;
+font: normal normal normal 14px/17px Lato;
+letter-spacing: 0px;
+color: #0A0102;
+opacity: 1;
+margin-left: 10px;
+}
+.author{
+    width: 100px;
+height: 12px;
+text-align: left;
+font: normal normal normal 10px/12px Lato;
+letter-spacing: 0px;
+color: #9D9D9D;
+opacity: 1;
+margin-left: 10px;
+}
+.price{
+    width: 58px;
+height: 18px;
+text-align: left;
+font: normal normal bold 15px/18px Lato;
+letter-spacing: 0px;
+color: #0A0102;
+opacity: 1;
+margin-left: 10px;
+}
+.discount{
+    display: flex;
+    flex-direction: row;
+}
+.remove{
+    width: 42px;
+height: 15px;
+text-align: left;
+font: normal normal normal 14px/15px Lato;
+letter-spacing: 0px;
+color: #0A0102;
+opacity: 1;
+margin-left: 30px;
+margin-top: 3px;
+}
+.input{
+    width: 130px;
+height: 30px;
+text-align: left;
+font: normal normal medium 14px/17px Lato;
+letter-spacing: 0px;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 1;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-left: 550px;
+}
+.order{
+    display: flex;
+    flex-direction: row;
+    gap: 400px;
+}
+.dot{
+    width: 7px;
+height: 7px;
+margin-top: 5px;
+border-radius: 50%;
+background: #26A541 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.orderplaced{
+    width: 162px;
+height: 20px;
+margin-left: 5px;
+text-align: left;
+font: normal normal bold 15px/20px Roboto;
+letter-spacing: 0px;
+color: #0A0102;
+opacity: 1;
+}
+.position{
+    display: flex;
+    flex-direction: row;
+}
+.rate{
+    width: 60px;
+height: 16px;
+margin-top: 2px;
+margin-left: 3px;
+/* UI Properties */
+text-align: left;
+text-decoration: line-through;
+font: normal normal normal 12px/16px Roboto;
+letter-spacing: 0px;
+color: #9D9D9D;
+opacity: 1;
+}

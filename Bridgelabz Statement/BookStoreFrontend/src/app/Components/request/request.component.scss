@@ -1,0 +1,42 @@
+.header{
+    width: fit-content;
+height: fit-content;
+text-align: left;
+font: normal normal medium 25px/33px Roboto;
+letter-spacing: 0px;
+color: #0A0102;
+opacity: 1;
+}
+.login{
+    width: 236px;
+height: 20px;
+text-align: left;
+font: normal normal normal 15px/20px Roboto;
+letter-spacing: 0px;
+color: #9D9D9D;
+opacity: 1;
+}
+.image{
+    width: 66px;
+height: 73px;
+opacity: 1;
+}
+.log{
+    width: 127px;
+height: 33px;
+margin-top: 20px;
+border: 1px solid #A03037;
+border-radius: 2px;
+opacity: 1;
+}
+a{
+    color: #A03037;
+   text-decoration: none !important;
+}
+.main{
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+2023-10-13 13:28:26.9313|INFO|NlogImplementation.NlogOperation|
+2023-10-13 13:28:26.9703|DEBUG|NlogImplementation.NlogOperation|Add() method in the addition class
+2023-10-13 13:28:26.9703|INFO|NlogImplementation.NlogOperation|Result is c
+2023-10-13 13:29:25.8186|INFO|NlogImplementation.NlogOperation|
+2023-10-13 13:29:25.8433|DEBUG|NlogImplementation.NlogOperation|Add() method in the addition class
+2023-10-13 13:29:25.8433|INFO|NlogImplementation.NlogOperation|Result is c
+2023-10-13 13:32:12.3662|INFO|NlogImplementation.NlogOperation|
+2023-10-13 13:32:12.3882|DEBUG|NlogImplementation.NlogOperation|Add() method in the addition class
+2023-10-13 13:32:12.3882|INFO|NlogImplementation.NlogOperation|Result is c
+2023-10-13 13:33:29.3482|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-13 13:35:38.1951|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-13 14:57:57.3551|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-13 15:01:07.4469|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-13 15:03:31.9989|ERROR|NLogImplementation.NlogOperation|Enter the Values Correctly
+2023-10-13 15:26:18.5293|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully

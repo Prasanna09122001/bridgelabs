@@ -1,0 +1,91 @@
+2023-10-25 15:13:35.5303|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-25 15:16:08.9564|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-25 15:16:38.9470|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-25 17:21:00.4200|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-25 17:21:14.7109|INFO|NlogImplementation.NlogOperation|Login successfully
+2023-10-25 17:21:29.0338|INFO|NlogImplementation.NlogOperation|Added Note successfully
+2023-10-26 09:25:44.6227|INFO|NlogImplementation.NlogOperation|Registered successfully
+2023-10-26 11:16:57.7969|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-26 11:17:20.7532|ERROR|NLogImplementation.NlogOperation|String reference not set to an instance of a String. (Parameter 's')
+2023-10-26 11:20:33.7282|ERROR|NLogImplementation.NlogOperation|String reference not set to an instance of a String. (Parameter 's')
+2023-10-26 11:21:59.2908|ERROR|NLogImplementation.NlogOperation|String reference not set to an instance of a String. (Parameter 's')
+2023-10-26 11:37:02.7755|ERROR|NLogImplementation.NlogOperation|String reference not set to an instance of a String. (Parameter 's')
+2023-10-26 11:40:05.1103|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-26 11:45:54.0288|ERROR|NLogImplementation.NlogOperation|String reference not set to an instance of a String. (Parameter 's')
+2023-10-26 11:47:21.8237|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-26 11:49:55.7111|INFO|NLogImplementation.NlogOperation|Password Reset Successfully
+2023-10-26 11:51:00.2946|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-26 12:07:51.7465|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-26 12:08:16.7241|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-26 12:20:04.7218|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:21:32.6368|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-26 12:21:46.3329|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:21:50.5708|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:22:14.6183|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:22:40.5324|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:29:37.2454|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:29:50.6941|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:29:57.3857|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:30:03.0990|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:30:36.7552|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:31:09.8574|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:32:15.5045|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-10-26 12:32:39.9573|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-10-26 12:34:01.6803|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:35:24.1277|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:35:29.3971|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:36:09.6794|INFO|NLogImplementation.NlogOperation|Archeived Note is Displayed Successfully
+2023-10-26 12:38:08.3524|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 12:39:28.9076|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:40:51.1566|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-10-26 12:41:04.4145|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-10-26 12:41:14.4462|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:41:44.7721|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-10-26 12:41:52.1564|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 12:42:10.9434|INFO|NLogImplementation.NlogOperation|Archeived Note is Displayed Successfully
+2023-10-26 12:42:50.9999|INFO|NLogImplementation.NlogOperation|Pinned Note Are Displayed Successfully
+2023-10-26 12:43:13.2305|INFO|NLogImplementation.NlogOperation|Your Thrashed Note Are Dispalyed
+2023-10-26 12:43:34.9586|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-10-26 12:43:48.8162|INFO|NLogImplementation.NlogOperation|Your Note is Pinned Successfully
+2023-10-26 12:44:00.1582|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-10-26 14:22:50.8131|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 14:23:02.3159|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 14:23:26.5456|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 14:23:55.2283|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 14:24:51.2039|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 14:49:13.7742|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 14:49:24.9206|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 15:09:48.2940|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 15:10:05.2314|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-10-26 15:20:57.8930|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 15:21:20.9031|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 15:22:42.8622|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 16:25:02.0627|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:27:53.9364|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 16:28:09.5707|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-26 16:29:14.4506|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-26 16:29:25.7705|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:29:33.1341|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:30:04.3890|INFO|NLogImplementation.NlogOperation|Deleted label successfully
+2023-10-26 16:30:04.4203|WARN|NLogImplementation.NlogOperation|labels not found
+2023-10-26 16:30:11.0516|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:30:13.5540|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:30:18.7453|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 16:30:27.0681|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 16:30:46.7730|WARN|NLogImplementation.NlogOperation|labels is null
+2023-10-26 16:30:52.2920|INFO|NLogImplementation.NlogOperation|Your Note Are Displayed
+2023-10-26 16:31:33.6805|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 17:26:26.2942|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 17:51:05.7371|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-26 17:51:10.1622|INFO|NLogImplementation.NlogOperation|Got all labels
+2023-10-27 12:09:25.0234|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-27 12:09:48.4642|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-27 12:11:24.9423|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-27 12:12:11.6649|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-27 12:17:44.9719|INFO|NLogImplementation.NlogOperation|Added labels
+2023-10-27 15:14:26.3413|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-10-27 15:15:21.1756|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-27 15:15:50.7815|INFO|NLogImplementation.NlogOperation|Collobrator Added Successfully
+2023-10-27 15:16:19.2793|INFO|NLogImplementation.NlogOperation|Label Added Successfully
+2023-10-27 15:16:30.0272|INFO|NLogImplementation.NlogOperation|Label Added Successfully
+2023-10-27 15:16:41.1722|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully

@@ -1,0 +1,467 @@
+2023-10-27 17:52:37.8208|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-10-27 17:52:58.3144|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-10-27 17:53:25.1712|INFO|NLogImplementation.NlogOperation|Your NoteS Are Displayed
+2023-10-27 17:53:51.6721|INFO|NLogImplementation.NlogOperation|Image Added Successfully
+2023-10-30 09:25:45.3682|INFO|NLogImplementation.NlogOperation|Archeived Note is Displayed Successfully
+2023-10-30 09:27:05.3853|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 10:37:08.5537|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-01 11:06:26.0481|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:22:34.2195|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:23:29.5439|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:32:48.8614|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:38:18.4154|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:43:10.2642|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 11:44:05.0201|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-01 12:11:21.3042|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-02 10:10:43.1340|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-02 10:15:11.2285|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-02 10:15:16.9537|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-02 10:15:24.2731|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-03 09:55:50.1243|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 10:06:25.2741|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 10:11:16.1851|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 11:30:04.5448|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 11:52:16.4249|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 11:56:16.7383|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-03 11:58:31.7394|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-09 10:40:27.7124|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-09 15:18:40.0636|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-09 15:35:58.7444|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 10:17:43.9194|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 11:25:45.9466|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 12:40:05.6353|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 13:06:05.5430|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 13:07:06.3642|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 13:07:34.4310|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 13:10:43.4868|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 13:11:25.6459|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-10 13:11:56.1146|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 14:34:53.8544|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 14:43:13.4597|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-10 14:49:01.0766|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-10 14:49:08.5582|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:06:00.8583|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:08:03.5008|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:10:38.7772|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:11:05.5001|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:14:28.3367|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:14:37.2391|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:17:51.6933|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:22:28.0445|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:23:33.5863|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-10 15:23:52.0083|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:24:10.1684|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 15:32:27.3425|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-10 15:33:00.3444|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:33:56.1280|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-10 15:40:48.5764|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:58:00.8890|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:58:52.9044|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:58:54.5424|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 15:59:35.3358|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 16:02:32.3072|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 16:02:51.6496|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 16:39:26.0036|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 16:55:48.4803|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 16:57:31.8285|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 16:58:30.8889|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-10 17:32:28.4884|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-10 17:34:39.5143|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-10 17:35:17.7341|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-10 17:41:48.2014|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-10 17:43:02.8280|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-14 09:22:34.3774|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 09:27:40.1085|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-14 09:28:27.9023|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 09:30:32.0429|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-14 09:30:41.2075|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 09:31:43.0214|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 09:33:15.1872|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 09:44:41.8871|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-14 09:52:49.7865|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:09:06.6102|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-14 10:14:07.9019|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:19:12.9179|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:22:26.4108|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:23:46.6935|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:46:26.8060|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-14 10:46:46.0725|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:48:15.0229|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:50:35.4969|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-14 10:54:23.4224|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-14 10:54:50.6596|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-14 10:55:19.3373|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-14 11:35:34.0465|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 09:29:02.0258|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:29:26.8129|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:44:06.2070|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:44:20.9886|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:44:51.6781|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:46:16.7907|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:46:59.4825|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 09:47:58.5005|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:04:26.0709|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:05:49.9840|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:08:44.8926|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 10:22:48.9226|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:22:57.7451|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:23:10.4900|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:39:27.1265|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 10:48:33.4287|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 10:51:39.8354|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 10:55:01.0915|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 10:59:15.5981|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 11:02:48.9782|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 11:15:16.5963|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 11:38:45.1858|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-15 11:38:50.7553|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 11:43:53.5219|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 11:52:36.1069|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:06:58.2969|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:38:41.2588|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:46:35.9994|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:46:53.5565|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:46:59.3695|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 12:52:38.9898|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 13:13:25.3535|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:15:08.1279|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:25:04.4785|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:25:41.7484|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:27:03.0367|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:27:05.4850|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:28:41.8282|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:28:44.0303|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:28:50.7714|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:32:21.8263|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:32:58.2525|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:33:43.7457|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:33:57.6636|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:35:27.8908|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:36:17.5813|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:37:24.2071|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:38:42.2199|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:39:45.1351|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:40:52.8051|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:41:33.8198|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:42:26.1075|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:42:49.9012|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:42:56.2084|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:43:52.3219|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:53:48.5814|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 15:57:19.0785|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-15 16:02:17.1438|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-15 16:02:38.5513|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-15 16:21:24.7811|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:21:58.6746|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:22:39.3658|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:23:31.3530|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:28:36.9497|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:28:40.4601|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 16:34:03.2264|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-15 16:34:13.9970|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 17:11:39.3615|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 17:16:33.9435|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 17:17:29.7298|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-15 17:21:10.2812|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 09:36:40.9090|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 09:45:05.5987|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 09:45:43.3543|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-16 09:50:04.0592|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 11:49:48.1101|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 11:50:57.1901|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-16 11:52:00.1769|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-16 11:52:18.7018|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 11:55:18.1529|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 12:23:16.0212|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 16:58:50.2075|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 16:59:14.6786|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-16 17:00:53.9586|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 09:12:53.0634|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 09:14:32.3877|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 09:35:33.2888|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-17 09:36:20.0040|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 09:36:25.5120|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 09:37:04.3610|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 11:29:17.2774|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 11:29:58.4279|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 11:40:25.2880|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 11:41:09.8539|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 11:41:25.6222|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 11:41:49.0778|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 11:41:57.2224|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 11:42:45.4069|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 11:43:10.3516|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 11:43:21.3867|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 11:56:21.1414|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 11:57:36.7264|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-17 11:57:49.5086|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 11:59:14.0149|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 11:59:37.2404|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:00:09.0720|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-17 12:00:09.1750|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-17 12:00:23.9970|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:02:43.8496|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-17 12:02:47.2246|WARN|NLogImplementation.NlogOperation|Your Mail is Incorrect. Please Verfiy it
+2023-11-17 12:02:52.8977|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:07:28.0522|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:16:34.7059|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:16:59.8667|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:17:50.2449|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:28:54.2822|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:31:20.4934|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:32:35.5046|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 12:34:22.9739|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-17 12:34:32.2908|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-17 12:34:41.1170|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 12:34:51.5490|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 13:01:55.4162|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 13:16:40.0019|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-17 13:17:07.4557|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 13:17:15.6313|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 13:17:21.9546|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 13:27:06.9088|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 13:28:02.2571|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 13:28:40.6176|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 13:29:49.3428|INFO|NLogImplementation.NlogOperation|Message Send to the User Mail Succesfully
+2023-11-17 13:32:13.3378|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 13:32:26.9291|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 13:32:42.2562|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 13:32:48.2919|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 13:32:51.3073|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-17 15:34:23.4062|INFO|NLogImplementation.NlogOperation|Reset Password Successful
+2023-11-17 15:55:43.9224|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 15:55:49.6708|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-17 15:56:05.3439|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-18 10:18:46.3834|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-18 10:18:47.4396|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-18 13:47:03.3405|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-18 14:06:11.7735|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-18 14:21:59.1049|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-18 14:22:05.4003|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-19 11:16:25.2789|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-19 11:40:26.4912|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-19 11:46:00.5933|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:56:57.8432|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:57:19.1362|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-19 11:57:32.8689|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-19 11:58:16.6203|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:58:52.4200|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:59:19.0517|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:59:23.5886|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 11:59:39.5372|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-19 12:02:41.0987|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:05:40.1263|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:21:44.7543|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:27:15.2040|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:28:25.5316|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:31:38.6054|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-19 12:43:50.5526|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 09:16:04.9945|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 09:48:06.2098|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-20 09:48:06.2098|ERROR|NLogImplementation.NlogOperation|Object reference not set to an instance of an object.
+2023-11-20 09:48:09.4398|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 09:53:32.1328|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 09:56:09.5715|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 10:11:50.2664|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 10:18:56.8277|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 10:19:14.6347|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 10:58:02.9893|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-20 10:58:08.2399|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 11:14:45.8838|WARN|NLogImplementation.NlogOperation|Your Email or Password is wrong
+2023-11-20 11:14:56.8250|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 11:31:44.7727|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 11:36:13.8151|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 11:46:49.9478|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 12:46:38.1673|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 13:18:57.3417|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 14:52:21.4303|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 14:52:55.8197|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 14:54:12.8090|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 14:54:42.5678|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:06:43.4325|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:07:20.0845|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:14:39.2406|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:15:33.6224|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:15:59.8893|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:16:49.0739|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:20:41.1222|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:23:01.4622|WARN|NLogImplementation.NlogOperation|Your Id or Email Id is Incorrect
+2023-11-20 15:37:56.9602|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:38:26.5650|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:38:32.2356|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:38:36.2459|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:38:37.8383|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:38:38.8117|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:43:27.0396|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:43:27.7653|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:44:05.3233|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:44:50.8778|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:44:54.0317|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:48:50.7205|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-20 15:53:36.3208|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 15:54:05.0427|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:16:02.3570|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:16:11.7466|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:21:59.9632|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:25:55.7624|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:31:39.6206|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:45:10.9850|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:45:19.3290|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:45:36.6422|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:48:03.9778|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 16:48:34.3487|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-20 16:49:50.9911|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 16:58:49.5399|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:01:12.7912|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:03:35.1635|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:03:42.2686|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:06:49.0119|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:07:46.3532|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:37:49.5207|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:38:01.6724|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:48:30.8139|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-20 17:56:51.5406|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 17:59:13.1674|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 18:08:36.3935|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-20 18:09:18.5183|INFO|NLogImplementation.NlogOperation|Registraion is Done Successfully
+2023-11-20 18:16:43.9199|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-20 20:34:37.1524|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-20 20:36:18.8832|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-20 20:51:23.7307|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 20:53:51.1478|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 20:54:37.7409|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 20:57:25.7851|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-20 21:16:41.5465|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 21:16:48.0060|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-20 21:44:31.1206|WARN|NLogImplementation.NlogOperation|Given Mail id or Note Id is Incorrect
+2023-11-20 21:47:18.2319|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 09:18:37.4284|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 09:52:08.9264|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-21 09:55:46.7147|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 10:33:07.6742|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 10:51:55.0178|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-21 11:00:55.9096|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-21 11:14:46.2005|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-21 11:16:29.1186|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-21 11:17:57.7134|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 12:00:26.1308|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:07:16.8308|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-21 12:07:25.4857|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:12:11.4105|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:26:41.5156|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:27:03.4954|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:27:22.6249|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:27:29.5318|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:28:59.8256|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 12:30:00.7603|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 12:30:26.8770|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 12:31:26.2759|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:31:46.0314|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:41:37.0921|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 12:47:39.7628|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 12:58:55.4174|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 12:59:01.9280|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 12:59:49.0431|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:00:50.0620|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:03:17.1241|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:05:49.2119|ERROR|NLogImplementation.NlogOperation|Value cannot be null. (Parameter 'entity')
+2023-11-21 13:11:10.2992|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 13:11:43.2940|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 13:13:52.7187|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:13:52.8166|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 13:13:52.8418|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 13:14:21.3067|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 13:14:38.8487|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 13:16:04.9060|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 13:16:13.7614|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-21 13:17:31.3514|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 13:19:30.2729|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 13:19:33.7577|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 13:19:40.1199|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:19:49.4069|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:20:04.4812|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:21:08.9523|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 13:22:39.3844|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:49:39.7434|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:49:58.5965|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:51:08.1263|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 14:54:48.9401|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 14:55:09.0402|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:55:47.5028|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:56:31.9496|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:56:52.5955|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:57:08.4574|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:58:07.9802|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 14:59:22.6698|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 15:00:35.1369|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 15:02:01.8418|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-21 15:04:25.4308|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-21 16:49:25.7836|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 16:50:17.4734|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 16:50:35.2703|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 16:50:52.9488|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 16:51:44.8843|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 17:00:23.0786|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 17:00:46.0326|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 17:00:47.0154|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 17:14:04.9426|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 17:57:04.5667|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-21 20:43:19.1419|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-21 20:46:39.1976|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 21:08:12.9132|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-21 21:49:58.8973|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-21 21:50:33.2610|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-22 09:10:46.7745|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-22 09:10:51.0536|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:11:22.2057|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:11:25.2389|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:11:30.2496|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:11:47.6111|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:11:51.1864|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:12:40.4353|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:12:46.0852|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:16:07.2820|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-22 09:16:22.5077|INFO|NLogImplementation.NlogOperation|Your Thrashed Note are Deleted Permanetly
+2023-11-22 09:16:35.5545|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-22 09:16:44.0233|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-22 09:17:03.7045|WARN|NLogImplementation.NlogOperation|There is No Thrash Note in the Given Mail Id
+2023-11-22 09:17:39.5171|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:17:43.6563|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:17:45.9121|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:17:47.3017|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:17:48.3938|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:17:49.8595|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 09:18:05.7770|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-22 09:18:15.9247|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-22 09:18:57.2843|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-22 09:19:10.7737|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-22 09:42:28.9330|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 09:42:42.9560|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 13:07:22.3109|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 13:07:27.5402|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 13:08:07.7178|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 14:54:40.7406|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 14:54:59.0397|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 14:55:05.9323|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:12:33.9572|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:13:09.2251|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:13:23.3912|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:14:49.8351|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:14:59.0919|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 15:29:01.7349|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 16:32:49.1394|INFO|NLogImplementation.NlogOperation|Notes Addeed Successfully
+2023-11-22 17:13:02.6194|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-22 17:13:09.6326|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 17:13:13.6208|INFO|NLogImplementation.NlogOperation|Your Note is Archeived Successfully
+2023-11-22 17:13:19.2685|INFO|NLogImplementation.NlogOperation|Your Note is Added to the Thrash
+2023-11-22 17:13:23.6915|INFO|NLogImplementation.NlogOperation|Your Note is Restored Successfully
+2023-11-22 17:13:32.9405|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 17:13:36.8260|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 17:13:47.0594|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 17:31:06.2498|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 18:16:33.7115|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-22 18:16:47.6746|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 18:17:00.3253|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-22 18:17:19.6313|INFO|NLogImplementation.NlogOperation|Note Updated Sucessfully
+2023-11-23 14:42:56.5223|INFO|NLogImplementation.NlogOperation|Login is Done Successfully
+2023-11-23 14:43:38.3620|INFO|NLogImplementation.NlogOperation|Collobrator Added Successfully
